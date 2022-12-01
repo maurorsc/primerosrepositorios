@@ -1,0 +1,24 @@
+{
+  "name": "proyectonode2",
+  "version": "1.0.0",
+  "description": "\"Hola, este es mi primer proyecto en el mejor bootcamp de programacion del mundo\".",
+  "main": "index.js",
+  "scripts": {
+    "primerproyecto": "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    
+    "type": "git",
+    "url": "git+https://github.com/maurorsc/primerosrepositorios.git"
+  },
+  "keywords": [
+    "holamundo"
+  ],
+  "author": "mauro roberto santa cruz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maurorsc/primerosrepositorios/issues"
+  },
+  "homepage": "https://github.com/maurorsc/primerosrepositorios#readme"
+}
